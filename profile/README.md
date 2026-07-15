@@ -2,7 +2,7 @@
 
 > An open specification for representing learner understanding.
 
-LearnerState is an open standard for describing what a learner understands—not just what they have done.
+LearnerState is an open standard for describing what a learner understands.
 
 Current learning standards such as xAPI and Caliper excel at capturing learning activities like watching a video, completing a quiz, or finishing a course. LearnerState builds on these signals to provide a structured representation of learner understanding, including concepts learned, confidence, evidence, misconceptions, prerequisites, and learning progress.
 
@@ -12,7 +12,8 @@ Our goal is to create a common language that enables learning platforms, AI tuto
 
 | Repository | Description |
 |------------|-------------|
-| **learnerstate-spec** | The official LearnerState specification and documentation. |
+| **lsl** | The LearnerState specification and documentation. |
+| **learnerstate.org** | The official website for lsl . |
 
 More repositories, reference implementations, SDKs, and tooling will be added as the specification evolves.
 
