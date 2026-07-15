@@ -1,10 +1,10 @@
-# LearnerState
+# Learner State Layer
 
 > An open specification for representing learner understanding.
 
-LearnerState is an open standard for describing what a learner understands.
+Learner State Layer is an open standard for describing what a learner understands.
 
-Current learning standards such as xAPI and Caliper excel at capturing learning activities like watching a video, completing a quiz, or finishing a course. LearnerState builds on these signals to provide a structured representation of learner understanding, including concepts learned, confidence, evidence, misconceptions, prerequisites, and learning progress.
+Current learning standards such as xAPI and Caliper excel at capturing learning activities like watching a video, completing a quiz, or finishing a course. LSL (Learner State Layer) builds on these signals to provide a structured representation of learner understanding, including concepts learned, confidence, evidence, misconceptions, prerequisites, and learning progress.
 
 Our goal is to create a common language that enables learning platforms, AI tutors, educational institutions, and developer tools to exchange and reason about learner understanding in a portable and interoperable way.
 
@@ -12,8 +12,8 @@ Our goal is to create a common language that enables learning platforms, AI tuto
 
 | Repository | Description |
 |------------|-------------|
-| **lsl** | The LearnerState specification and documentation. |
-| **learnerstate.org** | The official website for lsl . |
+| **lsl** | The LSL specification and documentation. |
+| **learnerstate.org** | The official website for LSL. |
 
 More repositories, reference implementations, SDKs, and tooling will be added as the specification evolves.
 
@@ -27,7 +27,7 @@ More repositories, reference implementations, SDKs, and tooling will be added as
 
 ## Status
 
-LearnerState is currently under active development. The specification is evolving, and feedback from educators, researchers, developers, and learning platform builders is welcome.
+LSL is currently under active development. The specification is evolving, and feedback from educators, researchers, developers, and learning platform builders is welcome.
 
 ## Contributing
 
